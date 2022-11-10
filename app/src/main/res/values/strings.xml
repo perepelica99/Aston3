@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="austria">Австрия</string>
+    <string name="poland">Польша</string>
+    <string name="italy">Италия</string>
+    <string name="colombia">Колумбия</string>
+    <string name="madagascar">Мадагаскар</string>
+    <string name="thailand">Таиланд</string>
+    <string name="denmark">Дания</string>
+    <string name="switzerland">Швейцария</string>
+</resources>
